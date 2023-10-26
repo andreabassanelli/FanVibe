@@ -52,17 +52,4 @@
 
 **4. Use Case Diagrams:**
     - Registrazione/Accesso:
-    <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Registrazione),
-    (Registrazione)>(Inserire Email),
-    (Inserire Email)>(Conferma Email),
-    (Registrazione)>(Inserire Password),
-    (Inserire Password)>(Conferma Password),
-    (Registrazione)<(Autenticazione a due fattori),
-    (Registrazione)>(Inserire Nome),
-    (Registrazione)>(Inserire Cognome),
-    (Registrazione)>(Inserire Data di nascita),
-    (Registrazione)>(Inserire Numero di telefono),
-    (Inserire numero di telefono)>(Verifica con SMS),
-    [Utente]-(Accesso),
-    (Accesso)>(Inserire Email),
-    (Accesso)>(Inserire Password)">
+    <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Registrazione),(Registrazione)>(Inserire Email),(Inserire Email)>(Conferma Email),(Registrazione)>(Inserire Password),(Inserire Password)>(Conferma Password),(Registrazione)<(Autenticazione a due fattori),(Registrazione)>(Inserire Nome),(Registrazione)>(Inserire Cognome),(Registrazione)>(Inserire Data di nascita),(Registrazione)>(Inserire Numero di telefono),(Inserire numero di telefono)>(Verifica con SMS),[Utente]-(Accesso),(Accesso)>(Inserire Email),(Accesso)>(Inserire Password)">
