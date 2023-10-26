@@ -65,4 +65,4 @@
     (Inserire numero di telefono)>(Verifica con SMS),
     [Utente]-(Accesso),
     (Accesso)>(Inserire Email),
-    (Accesso)>(Inserire Password)>
+    (Accesso)>(Inserire Password)">
