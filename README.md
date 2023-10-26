@@ -1,4 +1,4 @@
-# FanVibe - Specifica dei requisiti
+# FanVibe
 
 **1. Introduzione:**
   Con FanVibe potrai acquistare i biglietti del tour del tuo cantante o artista preferito, con la possibilità di lasciare recensioni a tutti gli show ed entrare in realtà aumentata direttamente nell'area concerti per scergliere il miglior posto!
