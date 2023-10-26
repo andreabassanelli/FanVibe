@@ -4,7 +4,7 @@
   Con FanVibe potrai acquistare i biglietti del tour del tuo cantante o artista preferito, con la possibilità di lasciare recensioni a tutti gli show ed entrare in realtà aumentata direttamente nell'area concerti per scergliere il miglior posto!
 
 **2. Risoluzione del problema:**
-   L'applicazione permetterà di unire in un unico grande spazio tutto ciò che riguarda il mondo dei concerti, quindi recensioni, acquisto di merch e biglietti.
+   L'applicazione permetterà di unire in un unico grande spazio tutto ciò che riguarda il mondo dei concerti, quindi recensioni e acquisto di biglietti con la realtà aumentata.
 
 **3. Specifica dei requisiti:**
   - Requisiti Funzionali Utente:
@@ -21,9 +21,6 @@
 
       Realtà Aumentata per la Selezione dei Posti:
       - Gli utenti devono poter utilizzare la realtà aumentata per selezionare il miglior posto all'evento.
-      
-      Acquisto di Merchandising:
-      - Gli utenti devono poter acquistare il merchandising dell'artista, come magliette o album.
       
   - Requisiti Funzionali di Sistema:
       Integrazione con Sistemi di Vendita di Biglietti:
@@ -48,10 +45,24 @@
       - L'app deve essere in grado di comunicare con i sistemi di vendita di biglietti di terze parti.
       
       Gestione delle Transazioni Finanziarie:
-      - Deve essere implementato un sistema di gestione delle transazioni finanziarie per l'acquisto di biglietti e merchandising.
+      - Deve essere implementato un sistema di gestione delle transazioni finanziarie per l'acquisto di biglietti.
       
       Integrazione con Tecnologie di Realtà Aumentata:
       - L'app deve integrare tecnologie di realtà aumentata per consentire agli utenti di selezionare i posti negli eventi.
 
 **4. Use Case Diagrams:**
-    
+    - Registrazione/Accesso:
+    <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Registrazione),
+    (Registrazione)>(Inserire Email),
+    (Inserire Email)>(Conferma Email),
+    (Registrazione)>(Inserire Password),
+    (Inserire Password)>(Conferma Password),
+    (Registrazione)<(Autenticazione a due fattori),
+    (Registrazione)>(Inserire Nome),
+    (Registrazione)>(Inserire Cognome),
+    (Registrazione)>(Inserire Data di nascita),
+    (Registrazione)>(Inserire Numero di telefono),
+    (Inserire numero di telefono)>(Verifica con SMS),
+    [Utente]-(Accesso),
+    (Accesso)>(Inserire Email),
+    (Accesso)>(Inserire Password)>
