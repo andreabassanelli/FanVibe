@@ -1,13 +1,13 @@
 # FanVibe
 
-**1. Introduzione:**
+**1. Introduzione:**<br>
   Con FanVibe potrai acquistare i biglietti del tour del tuo cantante o artista preferito, con la possibilità di lasciare recensioni a tutti gli show ed entrare in realtà aumentata direttamente nell'area concerti per scergliere il miglior posto!
 
-**2. Risoluzione del problema:**
+**2. Risoluzione del problema:**<br>
    L'applicazione permetterà di unire in un unico grande spazio tutto ciò che riguarda il mondo dei concerti, quindi recensioni e acquisto di biglietti con la realtà aumentata.
 
 **3. Specifica dei requisiti:**
-  - Requisiti Funzionali Utente:
+  - Requisiti Funzionali Utente:<br>
       Registrazione e Autenticazione:
       - Gli utenti devono poter creare un account e accedere all'app.
               
@@ -21,11 +21,11 @@
       Realtà Aumentata per la Selezione dei Posti:
       - Gli utenti devono poter utilizzare la realtà aumentata per selezionare il miglior posto all'evento.
       
-  - Requisiti Funzionali di Sistema:
+  - Requisiti Funzionali di Sistema:<br>
       Integrazione con Sistemi di Vendita di Biglietti:
       - L'app deve integrarsi con i sistemi di vendita di biglietti per consentire agli utenti di acquistarli.
       
-  - Requisiti Non Funzionali:
+  - Requisiti Non Funzionali:<br>
       Sicurezza:
       - I dati utente devono essere crittografati per garantire la privacy.
       - L'applicazione deve essere protetta da attacchi informatici e vulnerabilità.
@@ -39,7 +39,7 @@
       Usabilità:
       - L'app deve essere intuitiva per garantire che gli utenti possano utilizzarla facilmente.
   
-  - Requisiti di Dominio:
+  - Requisiti di Dominio:<br>
       Integrazione con Piattaforme di Vendita di Biglietti:
       - L'app deve essere in grado di comunicare con i sistemi di vendita di biglietti di terze parti.
       
@@ -49,6 +49,9 @@
       Integrazione con Tecnologie di Realtà Aumentata:
       - L'app deve integrare tecnologie di realtà aumentata per consentire agli utenti di selezionare i posti negli eventi.
 
-**4. Use Case Diagrams:**
-    - Registrazione/Accesso:
+**4. Use Case Diagrams:**<br>
+  - Registrazione/Accesso:
     <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Registrazione),(Registrazione)>(Inserire Email),(Inserire Email)>(Conferma Email),(Registrazione)>(Inserire Password),(Inserire Password)>(Conferma Password),(Registrazione)<(Autenticazione a due fattori),(Registrazione)>(Inserire Nome),(Registrazione)>(Inserire Cognome),(Registrazione)>(Inserire Data di nascita),(Registrazione)>(Inserire Numero di telefono),(Inserire numero di telefono)>(Verifica con SMS),[Utente]-(Accesso),(Accesso)>(Inserire Email),(Accesso)>(Inserire Password)">
+
+  - Utente:
+    <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Selezionare eventi),[Utente]-(Visualizza profilo utente),[Utente]-(Logout),[Utente]-(Acquisto biglietti),[Utente]-(Invia recensioni),[Utente]-(Leggere recensioni),(Selezionare eventi)<(Ricerca eventi),(Invia recensioni)>(Lasciare da 1 a 5 stelle),(Invia recensioni)<(Descrivere la recensione),(Acquisto biglietti)>(Selezione dei posti),(Selezione dei posti)<(Visualizzatore AR),(Acquisto biglietti)>(Selezione quantità biglietti),(Acquisto biglietti)>(Inserire nominativo per ogni biglietto),(Acquisto biglietti)>(Pagamento),(Pagamento)>(Inserire dati pagamento),[Sistema bancario]-(Inserire dati pagamento),(Acquisto biglietti)>(Invio biglietti via Email),[Servizi Email]-(Invio biglietti via Email)">
