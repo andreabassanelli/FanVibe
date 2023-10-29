@@ -10,7 +10,6 @@
   - Requisiti Funzionali Utente:
       Registrazione e Autenticazione:
       - Gli utenti devono poter creare un account e accedere all'app.
-      - Devono essere in grado di ripristinare la password se dimenticata.
               
       Recensioni degli Show:
       - Gli utenti devono essere in grado di lasciare recensioni per gli eventi a cui partecipano.
