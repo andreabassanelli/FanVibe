@@ -58,3 +58,35 @@
 
   - Utente manager:
     <img src="http://yuml.me/diagram/scruffy/usecase/[Utente manager]-(Inserimento eventi),(Inserimento eventi)>(Inserimento dati evento),(Inserimento dati evento)<(Seleziona file per visualizzatore VR),[Utente manager]-(Visualizza profilo utente),[Utente manager]-(Logout),[Utente manager]-(Rispondere alle recensioni),[Utente manager]-(Segnalare una recensione)">
+
+**Work Breakdown Structure:**<br>
+1. Progetto FanVibe
+   1.1. Pianificazione e Inizializzazione
+       1.1.1. Definizione degli Obiettivi del Progetto
+       1.1.2. Stesura del Piano di Progetto
+       1.1.3. Allocazione delle Risorse
+   1.2. Sviluppo dell'Applicazione
+       1.2.1. Progettazione dell'Architettura dell'App
+       1.2.2. Creazione dell'Interfaccia Utente
+       1.2.3. Implementazione della Funzionalità di Registrazione e Autenticazione
+       1.2.4. Integrazione con Sistemi di Vendita di Biglietti
+       1.2.5. Gestione delle Transazioni Finanziarie
+       1.2.6. Implementazione delle Recensioni degli Show
+   1.3. Implementazione della Realtà Aumentata
+       1.3.1. Ricerca e Integrazione delle Tecnologie di Realtà Aumentata
+       1.3.2. Sviluppo della Funzionalità di Realtà Aumentata per la Selezione dei Posti
+   1.4. Garanzia della Sicurezza e delle Prestazioni
+       1.4.1. Implementazione della Crittografia dei Dati Utente
+       1.4.2. Test di Sicurezza e Analisi delle Vulnerabilità
+       1.4.3. Ottimizzazione delle Prestazioni dell'App
+   1.5. Test e Validazione
+       1.5.1. Test Funzionali
+       1.5.2. Test di Sicurezza
+       1.5.3. Test di Prestazioni
+   1.6. Distribuzione e Lancio
+       1.6.1. Preparazione per il Lancio
+       1.6.2. Distribuzione dell'App sulle Piattaforme iOS e Android
+       1.6.3. Monitoraggio Post-Lancio
+   1.7. Formazione e Supporto
+       1.7.1. Creazione di Materiale di Formazione
+       1.7.2. Supporto Utente Post-Lancio
