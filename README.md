@@ -62,31 +62,31 @@
 **Work Breakdown Structure:**<br>
 1. Progetto FanVibe<br>
    1.1. Pianificazione e Inizializzazione<br>
-       &ensp;1.1.1. Definizione degli Obiettivi del Progetto<br>
-       1.1.2. Stesura del Piano di Progetto<br>
-       1.1.3. Allocazione delle Risorse<br>
+       &emsp;1.1.1. Definizione degli Obiettivi del Progetto<br>
+       &emsp;1.1.2. Stesura del Piano di Progetto<br>
+       &emsp;1.1.3. Allocazione delle Risorse<br>
    1.2. Sviluppo dell'Applicazione<br>
-       1.2.1. Progettazione dell'Architettura dell'App<br>
-       1.2.2. Creazione dell'Interfaccia Utente<br>
-       1.2.3. Implementazione della Funzionalità di Registrazione e Autenticazione<br>
-       1.2.4. Integrazione con Sistemi di Vendita di Biglietti<br>
-       1.2.5. Gestione delle Transazioni Finanziarie<br>
-       1.2.6. Implementazione delle Recensioni degli Show<br>
+       &emsp;1.2.1. Progettazione dell'Architettura dell'App<br>
+       &emsp;1.2.2. Creazione dell'Interfaccia Utente<br>
+       &emsp;1.2.3. Implementazione della Funzionalità di Registrazione e Autenticazione<br>
+       &emsp;1.2.4. Integrazione con Sistemi di Vendita di Biglietti<br>
+       &emsp;1.2.5. Gestione delle Transazioni Finanziarie<br>
+       &emsp;1.2.6. Implementazione delle Recensioni degli Show<br>
    1.3. Implementazione della Realtà Aumentata<br>
-       1.3.1. Ricerca e Integrazione delle Tecnologie di Realtà Aumentata<br>
-       1.3.2. Sviluppo della Funzionalità di Realtà Aumentata per la Selezione dei Posti<br>
+       &emsp;1.3.1. Ricerca e Integrazione delle Tecnologie di Realtà Aumentata<br>
+       &emsp;1.3.2. Sviluppo della Funzionalità di Realtà Aumentata per la Selezione dei Posti<br>
    1.4. Garanzia della Sicurezza e delle Prestazioni<br>
-       1.4.1. Implementazione della Crittografia dei Dati Utente<br>
-       1.4.2. Test di Sicurezza e Analisi delle Vulnerabilità<br>
-       1.4.3. Ottimizzazione delle Prestazioni dell'App<br>
+       &emsp;1.4.1. Implementazione della Crittografia dei Dati Utente<br>
+       &emsp;1.4.2. Test di Sicurezza e Analisi delle Vulnerabilità<br>
+       &emsp;1.4.3. Ottimizzazione delle Prestazioni dell'App<br>
    1.5. Test e Validazione<br>
-       1.5.1. Test Funzionali<br>
-       1.5.2. Test di Sicurezza<br>
-       1.5.3. Test di Prestazioni<br>
+       &emsp;1.5.1. Test Funzionali<br>
+       &emsp;1.5.2. Test di Sicurezza<br>
+       &emsp;1.5.3. Test di Prestazioni<br>
    1.6. Distribuzione e Lancio<br>
-       1.6.1. Preparazione per il Lancio<br>
-       1.6.2. Distribuzione dell'App sulle Piattaforme iOS e Android<br>
-       1.6.3. Monitoraggio Post-Lancio<br>
+       &emsp;1.6.1. Preparazione per il Lancio<br>
+       &emsp;1.6.2. Distribuzione dell'App sulle Piattaforme iOS e Android<br>
+       &emsp;1.6.3. Monitoraggio Post-Lancio<br>
    1.7. Formazione e Supporto<br>
-       1.7.1. Creazione di Materiale di Formazione<br>
-       1.7.2. Supporto Utente Post-Lancio<br>
+       &emsp;1.7.1. Creazione di Materiale di Formazione<br>
+       &emsp;1.7.2. Supporto Utente Post-Lancio<br>
