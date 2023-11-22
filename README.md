@@ -62,7 +62,7 @@
 **Work Breakdown Structure:**<br>
 1. Progetto FanVibe<br>
    1.1. Pianificazione e Inizializzazione<br>
-       1.1.1. Definizione degli Obiettivi del Progetto<br>
+       &ensp;1.1.1. Definizione degli Obiettivi del Progetto<br>
        1.1.2. Stesura del Piano di Progetto<br>
        1.1.3. Allocazione delle Risorse<br>
    1.2. Sviluppo dell'Applicazione<br>
