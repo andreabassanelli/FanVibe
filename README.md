@@ -8,7 +8,7 @@
 
 **3. Specifica dei requisiti:**
   - Requisiti Funzionali Utente:<br>
-      Gestione degli Eventi:
+      Gestione degli Eventi:<br>
         - I gestori dei locali devono poter inserire e gestire gli eventi che desiderano organizzare.
 
       Vendita dei Biglietti:
