@@ -35,6 +35,7 @@
   - Requisiti di Dominio:<br>
       Integrazione con Piattaforme di Vendita di Biglietti:<br>
         - L'app deve essere in grado di comunicare con piattaforme di vendita di biglietti esistenti per garantire un'ampia visibilità degli eventi.
+    
       Gestione delle Transazioni Finanziarie:<br>
         - Deve essere implementato un sistema di gestione delle transazioni finanziarie per monitorare le entrate e le uscite legate alla vendita dei biglietti.
 
