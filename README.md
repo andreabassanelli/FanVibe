@@ -11,25 +11,31 @@
       Gestione degli Eventi:<br>
         - I gestori dei locali devono poter inserire e gestire gli eventi che desiderano organizzare.
 
-      Vendita dei Biglietti:
-        - I gestori dei locali devono poter vendere i biglietti per i propri eventi direttamente dall'app.
+      Vendita dei Biglietti:<br>
+        - I gestori dei locali devono poter vendere i biglietti per i propri eventi direttamente dall'app.<br>
         - Devono ricevere notifiche elettroniche delle vendite effettuate.
 
-      Dashboard di Gestione:
+      Dashboard di Gestione:<br>
         - I gestori dei locali devono avere accesso a una dashboard intuitiva per monitorare le vendite dei biglietti e gestire gli eventi.
       
   - Requisiti Funzionali di Sistema:<br>
-      Integrazione con Piattaforme di Pagamento:
+      Integrazione con Piattaforme di Pagamento:<br>
         - L'app deve integrarsi con piattaforme di pagamento per consentire ai clienti di effettuare pagamenti in modo sicuro e rapido.
       
   - Requisiti Non Funzionali:<br>
-      Integrazione con Piattaforme di Pagamento:
-        - L'app deve integrarsi con piattaforme di pagamento per consentire ai clienti di effettuare pagamenti in modo sicuro e rapido.
+      Sicurezza:<br>
+       - I dati dei clienti e le transazioni finanziarie devono essere crittografati per garantire la privacy e la sicurezza.
+
+      Prestazioni:<br>
+       - L'app deve garantire tempi di risposta rapidi per evitare ritardi durante la vendita dei biglietti.
+
+      Scalabilità:<br>
+       - L'app deve essere progettata per gestire un grande volume di transazioni e utenti contemporaneamente.
   
   - Requisiti di Dominio:<br>
-      Integrazione con Piattaforme di Vendita di Biglietti:
+      Integrazione con Piattaforme di Vendita di Biglietti:<br>
         - L'app deve essere in grado di comunicare con piattaforme di vendita di biglietti esistenti per garantire un'ampia visibilità degli eventi.
-      Gestione delle Transazioni Finanziarie:
+      Gestione delle Transazioni Finanziarie:<br>
         - Deve essere implementato un sistema di gestione delle transazioni finanziarie per monitorare le entrate e le uscite legate alla vendita dei biglietti.
 
 **4. Use Case Diagrams:**<br>
