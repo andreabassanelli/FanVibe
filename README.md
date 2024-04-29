@@ -34,7 +34,7 @@
 
 **4. Use Case Diagrams:**<br>
   - Gestore del Locale:
-    <img src="http://yuml.me/diagram/scruffy/usecase/[Gestore del Locale]-(Inserire Evento),(Inserire Evento)>(Definire Dettagli Evento),(Inserire Evento)>(Pubblicare Evento),(Gestore del Locale)>(Visualizzare Dashboard),(Gestore del Locale)>(Gestire Vendita Biglietti),(Gestore del Locale)>(Ricevere Notifiche Vendite),(Gestore del Locale)>(Visualizzare Rapporti Vendite)">
+    <img src="http://yuml.me/diagram/scruffy/usecase/[Gestore del Locale]-(Inserire Evento),(Inserire Evento)>(Definire Dettagli Evento),(Inserire Evento)>(Pubblicare Evento),[Gestore del Locale]>(Visualizzare Dashboard),[Gestore del Locale]>(Gestire Vendita Biglietti),[Gestore del Locale]>(Ricevere Notifiche Vendite),[Gestore del Locale]>(Visualizzare Rapporti Vendite)">
 
   - Utente base:
     <img src="http://yuml.me/diagram/scruffy/usecase/[Utente base]-(Selezionare eventi),[Utente base]-(Visualizza profilo utente),[Utente base]-(Logout),[Utente base]-(Acquisto biglietti),[Utente base]-(Invia recensioni),[Utente base]-(Leggere recensioni),(Selezionare eventi)<(Ricerca eventi),(Invia recensioni)>(Lasciare da 1 a 5 stelle),(Invia recensioni)<(Descrivere la recensione),(Acquisto biglietti)>(Selezione dei posti),(Selezione dei posti)<(Visualizzatore VR),(Acquisto biglietti)>(Selezione quantità biglietti),(Acquisto biglietti)>(Inserire nominativo per ogni biglietto),(Acquisto biglietti)>(Pagamento),(Pagamento)>(Inserire dati pagamento),[Sistema bancario]-(Inserire dati pagamento),(Acquisto biglietti)>(Invio biglietti via Email),[Servizi Email]-(Invio biglietti via Email)">
